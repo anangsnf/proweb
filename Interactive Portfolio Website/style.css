@@ -1,0 +1,118 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    /*    outline: 1px solid red  !important;*/
+}
+
+.content {
+    width: 800px;
+    margin: auto;
+}
+
+.row {
+    align-items: center;
+    border-bottom: 5px solid black;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.title {
+    margin-left: auto;
+    text-align: right;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 100;
+    margin-bottom: 0;
+}
+
+.title h2 {
+    font-size: 20px;
+    font-weight: 300;
+    margin-top: 0;
+}
+
+h2 {
+    font-size: 38px;
+    font-weight: 300;
+}
+
+h3 {
+    font-size: 34px;
+    text-align: left;
+    margin-top: 5px;
+}
+
+.city {
+    width: 200px;
+    height: 120px;
+    margin-left: 0px;
+    margin-right: auto;
+}
+
+.destination {
+    width: 200px;
+    height: 120px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.event {
+    width: 200px;
+    height: 120px;
+    margin-left: auto;
+    margin-right: 0px;
+}
+
+.col-1 {
+    width: 8.33%;
+}
+
+.col-2 {
+    width: 16.66%;
+}
+
+.col-3 {
+    width: 25%;
+}
+
+.col-4 {
+    width: 33.33%;
+}
+
+.col-5 {
+    width: 41.66%;
+}
+
+.col-6 {
+    width: 50%;
+}
+
+.col-7 {
+    width: 58.33%;
+}
+
+.col-8 {
+    width: 66.66%;
+}
+
+.col-9 {
+    width: 75%;
+}
+
+.col-10 {
+    width: 83.33%;
+}
+
+.col-11 {
+    width: 91.66%;
+}
+
+.col-12 {
+    width: 100%;
+}
